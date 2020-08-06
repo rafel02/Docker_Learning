@@ -1,0 +1,13 @@
+Docker
+
+- Server less container
+
+Installation : https://docs.docker.com/engine/install/ubuntu/
+------------
+
+1. Docker Engine
+2. Docker Machine
+3. Docker Composer
+
+- Adding user to docker group:
+	sudo usermod -ag docker hks391
